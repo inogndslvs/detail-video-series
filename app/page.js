@@ -54,7 +54,7 @@ export default function Home() {
         <section className="rounded-2xl bg-white p-6 shadow-sm sm:p-8">
           <h2 className="text-xl font-semibold">Sinopsis</h2>
           <p className="mt-3 text-sm leading-7 text-zinc-700 sm:text-base">
-            "Hysteria Berkelana" mengikuti tim eksplorasi yang mendokumentasikan
+            Hysteria Berkelana mengikuti tim eksplorasi yang mendokumentasikan
             jejak-jejak cerita dari berbagai daerah. Setiap episode menampilkan
             perspektif baru antara sejarah, mitos, dan pengalaman warga setempat.
             Halaman ini disiapkan sebagai tampilan detail frontend-only dan siap
